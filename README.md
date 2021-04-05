@@ -21,7 +21,7 @@
 <a>Validar vídeo gravado</a> •
 <a>Adicionar biblotecas mochawesome</a> •
 <a>Subir projeto  no GitHub</a> •
-<a>Configurar actions para executar os testes • </a> •
+<a>Configurar actions para executar os testes </a> •
  
 </p>
 
